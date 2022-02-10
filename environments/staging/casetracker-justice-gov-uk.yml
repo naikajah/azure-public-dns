@@ -11,6 +11,6 @@ txt:
 
 
 cname:
-  - name: "afdverify"
+  - name: "afdverify.staging-casetracker"
     ttl: 300
     record: "afdverify.sdshmcts-stg.azurefd.net"
