@@ -1,0 +1,19 @@
+ns:
+
+mx:
+
+A:
+
+txt:
+
+cname:
+- name: "afdverify.makeaplea-application"
+  ttl: 300
+  record: "afdverify.sdshmcts-prod.azurefd.net"
+- name: "cdnverify.makeaplea-application"
+  ttl: 300
+  record: "cdnverify.sdshmcts-makeaplea-application-shutter-prod.azureedge.net"
+- name: "makeaplea-application"
+  ttl: 300
+  record: "hmcts-prod.azurefd.net"
+
