@@ -687,25 +687,6 @@ cname:
     record: "s2.domainkey.u23337691.wl192.sendgrid.net"
 
 #### Video Hearings
-  - name: vh-video-web
-    record: sdshmcts-prod.azurefd.net
-    ttl: 300
-  - name: "afdverify.vh-video-web"
-    ttl: 300
-    record: "afdverify.hmcts-prod.azurefd.net"
-  - name: "cdnverify.vh-video-web"
-    ttl: 300
-    record: "cdnverify.hmcts-vh-video-web-shutter-prod.azureedge.net"
-
-  - name: vh-admin-web
-    record: sdshmcts-prod.azurefd.net
-    ttl: 300
-  - name: "afdverify.vh-admin-web"
-    ttl: 300
-    record: "afdverify.hmcts-prod.azurefd.net"
-  - name: "cdnverify.vh-admin-web"
-    ttl: 300
-    record: "cdnverify.hmcts-vh-admin-web-shutter-prod.azureedge.net"
 
   - name: "_DEFCA9944606874FF3B5E0E653FF9825"
     ttl: 300
